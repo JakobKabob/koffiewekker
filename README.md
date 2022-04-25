@@ -7,7 +7,7 @@ prep:
 
 automated steps:
 - alarm attaches bottom of ap to a slit in the base.
-- by moving the pump up while the bottom is attached to the base, the ap should suck water out of reservoir.
+- by moving the pump up while the bottom is attached to the base, the ap should suck water from the reservoir.
 The water should be piped through a heating system, or heated in advance.
 - after the ap is filled up, the alarm detaches the ap from the base and lets it sit for 30 seconds
 - alarm shakes ap (should make for better coffee)
