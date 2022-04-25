@@ -1,4 +1,4 @@
-pivoting aeropress interface. abstract
+pivoting aeropress interface. v0
 
 prep:
 - fill reservoir
