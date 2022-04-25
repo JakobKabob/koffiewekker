@@ -1,4 +1,5 @@
 pivoting aeropress interface. v0
+![screen-gif](abstract.gif)
 
 prep:
 - fill reservoir
